@@ -1,0 +1,58 @@
+/*
+ *	Reservation form
+ */
+.reservation dt {
+	width: 80px;
+	padding: 3px;
+}
+.reservation dd {
+	width: 180px;
+	padding: 3px;
+}
+.already_reserved, .free {
+	font-size: x-small;
+	padding: 0 5px;
+}
+/*
+ *	Member's information
+ */
+table.members_info {
+	color: #333;
+	text-align: left;
+}
+table.members_info th {
+	padding: 3px;
+	width: 80px;
+}
+table.members_info td {
+	padding: 3px;
+}
+
+
+table.edit_schedule th, table.edit_schedule td,
+table.daily_schedule th, table.daily_schedule td,
+table.single_schedule_time th, table.single_schedule_status td,
+table.weekly_schedule th, table.weekly_schedule td {
+	font-weight: normal;
+	font-family: Arial !important;
+	padding: 3px !important;
+}
+
+@media screen and (max-width: 480px){ /* 画面が480pxの場合 */
+
+}
+@media screen and (max-width: 320px){ /* 画面が320pxの場合 */
+	table.edit_schedule th, table.edit_schedule td,
+	table.daily_schedule th, table.daily_schedule td,
+	table.single_schedule_time th, table.single_schedule_status td,
+	table.weekly_schedule th, table.weekly_schedule td {
+		font-size: x-small;
+	}
+	.list_pagenavi {
+		font-size: x-small;
+	}
+}
+
+.container {
+	padding: 0px;
+}

@@ -1,0 +1,1057 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OLBsystem\n"
+"POT-Creation-Date: 2017-06-15 16:58+0900\n"
+"PO-Revision-Date: 2015-03-04 15:44+0900\n"
+"Last-Translator: tnomi <tnomi@sukimalab.com>\n"
+"Language-Team: olbsys.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/my-adminpage.php:21
+msgid "Online Lesson Booking system"
+msgstr ""
+
+#: class/my-adminpage.php:22 class/my-adminpage.php:29
+#: class/my-adminpage.php:37 class/my-adminpage.php:45
+#: class/my-adminpage.php:53
+msgid "OLBsystem"
+msgstr ""
+
+#: class/my-adminpage.php:29 class/my-adminpage.php:30
+#: class/my-adminpage.php:143 class/my-adminpage.php:610
+msgid "General"
+msgstr ""
+
+#: class/my-adminpage.php:37 class/my-adminpage.php:38
+#: class/my-adminpage.php:335
+msgid "Special Pages"
+msgstr ""
+
+#: class/my-adminpage.php:45 class/my-adminpage.php:46
+#: class/my-adminpage.php:452 class/my-adminpage.php:614
+msgid "Mail"
+msgstr ""
+
+#: class/my-adminpage.php:53 class/my-adminpage.php:54
+#: class/my-adminpage.php:599
+msgid "Reset"
+msgstr ""
+
+#: class/my-adminpage.php:68
+msgid "Online Lesson Booking system settings"
+msgstr ""
+
+#: class/my-adminpage.php:96
+msgid "Settings are reset"
+msgstr ""
+
+#: class/my-adminpage.php:122
+msgid "Settings are updated"
+msgstr ""
+
+#: class/my-adminpage.php:148
+msgid "Timetable settings"
+msgstr ""
+
+#: class/my-adminpage.php:151
+msgid "Start time"
+msgstr ""
+
+#: class/my-adminpage.php:159
+msgid "End time"
+msgstr ""
+
+#: class/my-adminpage.php:167
+msgid "Interval"
+msgstr ""
+
+#: class/my-adminpage.php:170
+msgid "minutes"
+msgstr ""
+
+#: class/my-adminpage.php:176
+msgid "Reservation settings"
+msgstr ""
+
+#: class/my-adminpage.php:179
+msgid "Time to close a reservation request "
+msgstr ""
+
+#: class/my-adminpage.php:182 class/my-adminpage.php:191
+msgid "minutes before"
+msgstr ""
+
+#: class/my-adminpage.php:188
+msgid "Time to close a cancellation request "
+msgstr ""
+
+#: class/my-adminpage.php:197
+msgid "The limit of the reservation per day"
+msgstr ""
+
+#: class/my-adminpage.php:200 class/my-adminpage.php:209
+msgid "empty (or 0) is unlimited"
+msgstr ""
+
+#: class/my-adminpage.php:206
+msgid "The limit of the reservation per month"
+msgstr ""
+
+#: class/my-adminpage.php:215
+msgid "The limit of the reservation which is not charged"
+msgstr ""
+
+#: class/my-adminpage.php:218
+msgid "It is so-called \"Trial lesson\" or a \"Free ticket\"."
+msgstr ""
+
+#: class/my-adminpage.php:223
+msgid "Indefinite period"
+msgstr ""
+
+#: class/my-adminpage.php:226
+msgid "The expiration date isn&#39;t judged."
+msgstr ""
+
+#: class/my-adminpage.php:231
+msgid "Using ticket system"
+msgstr ""
+
+#: class/my-adminpage.php:234
+msgid "Set up each member's number of possession tickets."
+msgstr ""
+
+#: class/my-adminpage.php:239
+msgid "Meta-key of ticket"
+msgstr ""
+
+#: class/my-adminpage.php:247
+msgid "The term of validity of ticket"
+msgstr ""
+
+#: class/my-adminpage.php:249
+msgid "Days."
+msgstr ""
+
+#: class/my-adminpage.php:250
+msgid ""
+"If this is larger than zero, when the each member's number of tickets is "
+"updated, the term of validity will also be updated automatically."
+msgstr ""
+
+#: class/my-adminpage.php:255
+msgid "CRON settings"
+msgstr ""
+
+#: class/my-adminpage.php:258
+msgid "The days which do not delete the past schedule"
+msgstr ""
+
+#: class/my-adminpage.php:261
+msgid "days"
+msgstr ""
+
+#: class/my-adminpage.php:267
+msgid "CRON interval"
+msgstr ""
+
+#: class/my-adminpage.php:270
+msgid "every harf hour"
+msgstr ""
+
+#: class/my-adminpage.php:271
+msgid "hourly"
+msgstr ""
+
+#: class/my-adminpage.php:272
+msgid "daily"
+msgstr ""
+
+#: class/my-adminpage.php:273
+msgid "debug(every 10 seconds)"
+msgstr ""
+
+#: class/my-adminpage.php:280
+msgid "View settings"
+msgstr ""
+
+#: class/my-adminpage.php:283
+msgid "Show teachers per page"
+msgstr ""
+
+#: class/my-adminpage.php:291
+msgid "Customize user profile page"
+msgstr ""
+
+#: class/my-adminpage.php:295
+msgid "Yes"
+msgstr ""
+
+#: class/my-adminpage.php:306 class/my-adminpage.php:425
+#: class/my-adminpage.php:576 class/my-adminpage.php:623
+msgid "Update"
+msgstr ""
+
+#: class/my-adminpage.php:340
+msgid "Special page slug"
+msgstr ""
+
+#: class/my-adminpage.php:343
+msgid "Daily schedule page"
+msgstr ""
+
+#: class/my-adminpage.php:347 class/my-adminpage.php:357
+#: class/my-adminpage.php:367 class/my-adminpage.php:377
+#: class/my-adminpage.php:387 class/my-adminpage.php:397
+#, php-format
+msgid "The page which inserted the short code %s"
+msgstr ""
+
+#: class/my-adminpage.php:353
+msgid "Reservation form page"
+msgstr ""
+
+#: class/my-adminpage.php:363
+msgid "Cancel(by teacher) form page"
+msgstr ""
+
+#: class/my-adminpage.php:373
+msgid "Absent(by teacher) form page"
+msgstr ""
+
+#: class/my-adminpage.php:383
+msgid "Edit schedule(by teacher) page"
+msgstr ""
+
+#: class/my-adminpage.php:393
+msgid "Refer members info(by teacher) page"
+msgstr ""
+
+#: class/my-adminpage.php:403
+msgid "Members my page"
+msgstr ""
+
+#: class/my-adminpage.php:406
+msgid "After login, member is redirected to this Page"
+msgstr ""
+
+#: class/my-adminpage.php:411
+msgid "Login page"
+msgstr ""
+
+#: class/my-adminpage.php:415
+msgid ""
+"A standard login page will be used if a \"login page\" is not specified."
+msgstr ""
+
+#: class/my-adminpage.php:416
+msgid "If a login page is made separately, specify the name of that page."
+msgstr ""
+
+#: class/my-adminpage.php:458
+msgid "Email address"
+msgstr ""
+
+#: class/my-adminpage.php:461
+msgid "From email"
+msgstr ""
+
+#: class/my-adminpage.php:469 class/my-adminpage.php:472
+msgid "Signature"
+msgstr ""
+
+#: class/my-adminpage.php:480
+msgid "Notice of received reservation"
+msgstr ""
+
+#: class/my-adminpage.php:483 class/my-adminpage.php:510
+#: class/my-adminpage.php:537
+msgid "Subject"
+msgstr ""
+
+#: class/my-adminpage.php:491 class/my-adminpage.php:518
+#: class/my-adminpage.php:545
+msgid "Subject to teacher"
+msgstr ""
+
+#: class/my-adminpage.php:499 class/my-adminpage.php:526
+#: class/my-adminpage.php:553 class/my-timetable.php:856
+msgid "Message"
+msgstr ""
+
+#: class/my-adminpage.php:507
+msgid "Notice of received cancellation"
+msgstr ""
+
+#: class/my-adminpage.php:534
+msgid "Notice of cancellation by teacher"
+msgstr ""
+
+#: class/my-adminpage.php:564
+msgid "Send to admin too"
+msgstr ""
+
+#: class/my-adminpage.php:567
+msgid ""
+"If you would like to also send these notifications to administrator, input "
+"email address.<br>If it is empty it will not be sent."
+msgstr ""
+
+#: class/my-adminpage.php:604
+msgid "Reset plugin options"
+msgstr ""
+
+#: class/my-adminpage.php:607
+msgid "Target"
+msgstr ""
+
+#: class/my-adminpage.php:612
+msgid "Special pages"
+msgstr ""
+
+#: class/my-auth.php:161 class/my-hookactions.php:852
+msgid "ID"
+msgstr ""
+
+#: class/my-auth.php:162
+msgid "Name"
+msgstr ""
+
+#: class/my-auth.php:163 class/my-hookactions.php:130
+msgid "Skype ID"
+msgstr ""
+
+#: class/my-auth.php:164
+msgid "Term"
+msgstr ""
+
+#: class/my-auth.php:165
+msgid "Email"
+msgstr ""
+
+#: class/my-auth.php:166
+msgid "First name"
+msgstr ""
+
+#: class/my-auth.php:167
+msgid "Last name"
+msgstr ""
+
+#: class/my-auth.php:168 class/my-hookactions.php:128
+msgid "Address"
+msgstr ""
+
+#: class/my-auth.php:169 class/my-hookactions.php:129
+msgid "Phone"
+msgstr ""
+
+#: class/my-calendar.php:319 class/my-calendar.php:406
+msgid "Today"
+msgstr ""
+
+#: class/my-formaction.php:151 class/my-formaction.php:351
+#, php-format
+msgid "%d days left"
+msgstr ""
+
+#: class/my-formaction.php:154 class/my-formaction.php:354
+msgid "Expired"
+msgstr ""
+
+#: class/my-formaction.php:206
+#, php-format
+msgid "%d minutes before start time"
+msgstr ""
+
+#: class/my-formaction.php:224
+msgid "Free reservation applied."
+msgstr ""
+
+#: class/my-formaction.php:226
+#, php-format
+msgid "Your free reservation: %d times left."
+msgstr ""
+
+#: class/my-formaction.php:596
+msgid "Select teacher"
+msgstr ""
+
+#: class/my-formaction.php:611
+msgid "Or input teacher's ID (ex.'2')"
+msgstr ""
+
+#: class/my-formaction.php:628
+msgid "Select member"
+msgstr ""
+
+#: class/my-formaction.php:643
+msgid "Or input member's ID (ex.'5')"
+msgstr ""
+
+#: class/my-formaction.php:736
+msgid "Admin is pretending a user"
+msgstr ""
+
+#: class/my-formaction.php:743
+msgid "Admin is pretending a teacher"
+msgstr ""
+
+#: class/my-formaction.php:749
+msgid "OFF"
+msgstr ""
+
+#: class/my-functions.php:26
+msgid "Parameter is insufficient."
+msgstr ""
+
+#: class/my-functions.php:28
+msgid "Invalid parameter is contained."
+msgstr ""
+
+#: class/my-functions.php:30 class/my-functions.php:32
+msgid "Specified record does not exist."
+msgstr ""
+
+#: class/my-functions.php:34
+msgid "Specified timetable is not reserved. It cannot cancel."
+msgstr ""
+
+#: class/my-functions.php:36
+msgid "You have double-booking on this date and time."
+msgstr ""
+
+#: class/my-functions.php:38
+msgid "Specified timetable is reserved. It cannot reserve."
+msgstr ""
+
+#: class/my-functions.php:40
+msgid "Specified timetable is reserved by other member. You cannot reserve."
+msgstr ""
+
+#: class/my-functions.php:42
+msgid "Member has reached expiration date."
+msgstr ""
+
+#: class/my-functions.php:44
+msgid "Time is up. It cannot reserve."
+msgstr ""
+
+#: class/my-functions.php:46
+msgid "Time is up. It cannot cancel."
+msgstr ""
+
+#: class/my-functions.php:48
+msgid "The number of reservations reached a limit per day."
+msgstr ""
+
+#: class/my-functions.php:50
+msgid "The number of reservations reached a limit per month."
+msgstr ""
+
+#: class/my-functions.php:52
+msgid "Cancellation processing failed. It was not able to cancel."
+msgstr ""
+
+#: class/my-functions.php:54
+msgid "Reservation processing failed. It was not able to reserve."
+msgstr ""
+
+#: class/my-functions.php:56
+msgid "Sending email to user failed."
+msgstr ""
+
+#: class/my-functions.php:58
+msgid "Teacher is not specified."
+msgstr ""
+
+#: class/my-functions.php:60
+msgid "Member is not specified."
+msgstr ""
+
+#: class/my-functions.php:64
+msgid "No members."
+msgstr ""
+
+#: class/my-functions.php:66
+msgid "No teachers."
+msgstr ""
+
+#: class/my-functions.php:68
+msgid "Specified teacher does not exist."
+msgstr ""
+
+#: class/my-functions.php:70
+msgid "Specified member does not exist."
+msgstr ""
+
+#: class/my-functions.php:72
+msgid "Onetime token error."
+msgstr ""
+
+#: class/my-functions.php:74
+msgid "It reserved."
+msgstr ""
+
+#: class/my-functions.php:76
+msgid "It canceled."
+msgstr ""
+
+#: class/my-history.php:68
+#, php-format
+msgid "%1$d hour "
+msgstr ""
+
+#: class/my-history.php:71
+#, php-format
+msgid "%1$d hours "
+msgstr ""
+
+#: class/my-history.php:78
+#, php-format
+msgid "%2$d minute "
+msgstr ""
+
+#: class/my-history.php:81
+#, php-format
+msgid "%2$d minutes "
+msgstr ""
+
+#: class/my-history.php:87
+msgid "later"
+msgstr ""
+
+#: class/my-history.php:92
+#, php-format
+msgid "%d day later"
+msgstr ""
+
+#: class/my-history.php:95
+#, php-format
+msgid "%d days later"
+msgstr ""
+
+#: class/my-history.php:161 class/my-history.php:264 class/my-history.php:375
+#: class/my-history.php:471 class/my-history.php:577 class/my-timetable.php:561
+#: class/my-timetable.php:639 class/my-timetable.php:696
+#: class/my-timetable.php:852 class/my-timetable.php:951
+#: class/my-timetable.php:1103 class/my-timetable.php:1162
+msgid "Date/Time"
+msgstr ""
+
+#: class/my-history.php:162 class/my-history.php:266
+msgid "Member(Skype)"
+msgstr ""
+
+#: class/my-history.php:163 class/my-history.php:174 class/my-history.php:377
+#: class/my-history.php:391 class/my-timetable.php:1107
+msgid "Absent"
+msgstr ""
+
+#: class/my-history.php:265 class/my-history.php:472
+msgid "Waiting"
+msgstr ""
+
+#: class/my-history.php:267 class/my-history.php:474
+msgid "Cancel"
+msgstr ""
+
+#: class/my-history.php:278 class/my-history.php:491
+msgid "Time over"
+msgstr ""
+
+#: class/my-history.php:282 class/my-history.php:495
+msgid "CANCEL"
+msgstr ""
+
+#: class/my-history.php:376 class/my-history.php:473
+#: class/my-hookactions.php:178 class/my-hookactions.php:226
+#: class/my-hookactions.php:292 class/my-hookactions.php:851
+#: class/my-hookactions.php:866 class/my-hookactions.php:872
+#: class/my-timetable.php:554 class/my-timetable.php:632
+#: class/my-timetable.php:694 class/my-timetable.php:845
+#: class/my-timetable.php:945 class/my-timetable.php:1096
+#: class/my-timetable.php:1160 class/my-timetable.php:1781
+msgid "Teacher"
+msgstr ""
+
+#: class/my-history.php:578
+msgid "Update info"
+msgstr ""
+
+#: class/my-history.php:612
+msgid "by PayPal payment"
+msgstr ""
+
+#: class/my-history.php:623 class/my-history.php:660
+#, php-format
+msgid "Corrected %d ticket."
+msgstr ""
+
+#: class/my-history.php:626 class/my-history.php:663
+#, php-format
+msgid "Added %d ticket."
+msgstr ""
+
+#: class/my-history.php:637 class/my-history.php:667
+#, php-format
+msgid "Extended till %s."
+msgstr ""
+
+#: class/my-history.php:641 class/my-history.php:670
+#, php-format
+msgid "Corrected to %s."
+msgstr ""
+
+#: class/my-history.php:645 class/my-history.php:673
+msgid "Removed expiration."
+msgstr ""
+
+#: class/my-history.php:649 class/my-history.php:654
+msgid "Error"
+msgstr ""
+
+#: class/my-hookactions.php:40
+msgid "My page"
+msgstr ""
+
+#: class/my-hookactions.php:47 class/my-widget.php:80 class/my-widget.php:187
+#: class/my-widget.php:323
+msgid "Logout"
+msgstr ""
+
+#: class/my-hookactions.php:149 class/my-hookactions.php:209
+#: class/my-hookactions.php:288
+msgid "Online-Booking-System Additional Fields"
+msgstr ""
+
+#: class/my-hookactions.php:159
+msgid "The term of validity is updated after the check of payment."
+msgstr ""
+
+#: class/my-hookactions.php:167 class/my-hookactions.php:242
+msgid "Term of validity"
+msgstr ""
+
+#: class/my-hookactions.php:178
+msgid "Not set"
+msgstr ""
+
+#: class/my-hookactions.php:179 class/my-hookactions.php:226
+#: class/my-hookactions.php:290
+msgid "Property \"Teacher\""
+msgstr ""
+
+#: class/my-hookactions.php:226 class/my-hookactions.php:293
+msgid "When this item is checked, the \"Role\" is changed to \"Author\"."
+msgstr ""
+
+#: class/my-hookactions.php:913 class/my-hookactions.php:1170
+msgid "Members information"
+msgstr ""
+
+#: class/my-hookactions.php:915 class/my-hookactions.php:1172
+msgid "Recent history"
+msgstr ""
+
+#: class/my-hookactions.php:916 class/my-hookactions.php:1159
+#: class/my-hookactions.php:1173 class/my-hookactions.php:1187
+msgid "No history"
+msgstr ""
+
+#: class/my-hookactions.php:945 class/my-hookactions.php:947
+#: class/my-hookactions.php:1180 class/my-hookactions.php:1182
+msgid "Ticket Logs"
+msgstr ""
+
+#: class/my-hookactions.php:946 class/my-hookactions.php:1181
+msgid "No Logs"
+msgstr ""
+
+#: class/my-hookactions.php:1091
+msgid ""
+"\n"
+"<p>\n"
+"Hello [olb_member_data key=\"name\"].\n"
+"</p>\n"
+"\n"
+"<h4>Term of validity:</h4>\n"
+"<p>\n"
+"[olb_member_data key=\"olbterm\"]\n"
+"[olb_if_expire]Expired[/olb_if_expire]\n"
+"</p>\n"
+"\n"
+"<h4>Free ticket:</h4>\n"
+"<p>[olb_member_data key=\"free\"] left.</p>\n"
+"\n"
+"<h4>History:</h4>\n"
+"[olb_members_history perpage=\"5\" pagenavi=\"0\"]\n"
+"<p>(No history)</p>\n"
+"[/olb_members_history]\n"
+"\n"
+"<h4>Reserved:</h4>\n"
+"[olb_members_schedule perpage=\"5\" pagenavi=\"0\"]\n"
+"<p>(No schedule)</p>\n"
+"[/olb_members_schedule]\n"
+msgstr ""
+
+#: class/my-hookactions.php:1119
+msgid "Scheduler for teacher"
+msgstr ""
+
+#: class/my-hookactions.php:1125
+msgid "Cancel form for teacher"
+msgstr ""
+
+#: class/my-hookactions.php:1131
+msgid "Report form for teacher"
+msgstr ""
+
+#: class/my-hookactions.php:1137
+msgid "Reservation and cancellation form"
+msgstr ""
+
+#: class/my-hookactions.php:1143
+msgid "Members my-page"
+msgstr ""
+
+#: class/my-hookactions.php:1149
+msgid "Daily schedule"
+msgstr ""
+
+#: class/my-hookactions.php:1158 class/my-hookactions.php:1160
+msgid "Teachers history"
+msgstr ""
+
+#: class/my-hookactions.php:1164 class/my-hookactions.php:1166
+msgid "Teachers schedule"
+msgstr ""
+
+#: class/my-hookactions.php:1165 class/my-hookactions.php:1193
+msgid "No schedule"
+msgstr ""
+
+#: class/my-hookactions.php:1186 class/my-hookactions.php:1188
+msgid "Members history"
+msgstr ""
+
+#: class/my-hookactions.php:1192 class/my-hookactions.php:1194
+msgid "Members schedule"
+msgstr ""
+
+#: class/my-info.php:21
+msgid "Plugin Information"
+msgstr ""
+
+#: class/my-info.php:24
+msgid "Online User's Guide"
+msgstr ""
+
+#: class/my-info.php:26
+msgid "Thank you for using \"OLBsystem\"."
+msgstr ""
+
+#: class/my-info.php:27
+msgid "If wrong processing is found, please let me know."
+msgstr ""
+
+#: class/my-info.php:28
+msgid "Plugin site"
+msgstr ""
+
+#: class/my-info.php:43 class/my-info.php:54
+msgid "Latest from Plugin"
+msgstr ""
+
+#: class/my-info.php:79 class/my-info.php:84
+msgid "Extentions Information"
+msgstr ""
+
+#: class/my-info.php:81
+msgid "Extension codes for OLB"
+msgstr ""
+
+#: class/my-info.php:98 class/my-info.php:115
+msgid "Latest from \"Online Lesson Booking\" plugin"
+msgstr ""
+
+#: class/my-info.php:119
+msgid "Feed not found"
+msgstr ""
+
+#: class/my-paging.php:150 class/my-shortcodes.php:39
+#: class/my-shortcodes.php:556
+msgid "&laquo; PREV"
+msgstr ""
+
+#: class/my-paging.php:151 class/my-shortcodes.php:40
+#: class/my-shortcodes.php:557
+msgid "NEXT &raquo;"
+msgstr ""
+
+#: class/my-settings.php:236
+msgid "Reserved: %RESERVE_DATE% %RESERVE_TIME% %ROOM_NAME%"
+msgstr ""
+
+#: class/my-settings.php:237
+msgid ""
+"Reserved: %RESERVE_DATE% %RESERVE_TIME% by %USER_NAME%(Skype: %USER_SKYPE%)"
+msgstr ""
+
+#: class/my-settings.php:238
+msgid ""
+"\n"
+"To: %USER_NAME% (Skype: %USER_SKYPE%)\n"
+"\n"
+"Your reservation was received.\n"
+"[Reservation ID] %RESERVE_ID%\n"
+"[Teacher] %ROOM_NAME%\n"
+"[Date/Time] %RESERVE_DATE% %RESERVE_TIME%\n"
+"\n"
+"(Received: %SEND_TIME%)\n"
+"\n"
+"If you cancel, please offer from the following URL %CANCEL_DEADLINE%.\n"
+"%CANCEL_URL%\n"
+"\n"
+msgstr ""
+
+#: class/my-settings.php:252
+msgid "Cancelled: %RESERVE_DATE% %RESERVE_TIME% %ROOM_NAME%"
+msgstr ""
+
+#: class/my-settings.php:253
+msgid "Cancelled: %RESERVE_DATE% %RESERVE_TIME% by %USER_NAME%"
+msgstr ""
+
+#: class/my-settings.php:254
+msgid ""
+"\n"
+"To: %USER_NAME% (Skype: %USER_SKYPE%)\n"
+"\n"
+"Your cancellation was received.\n"
+"[Reservation ID] %RESERVE_ID%\n"
+"[Teacher] %ROOM_NAME%\n"
+"[Date/Time] %RESERVE_DATE% %RESERVE_TIME%\n"
+"\n"
+"(Received: %SEND_TIME%)\n"
+"\n"
+msgstr ""
+
+#: class/my-settings.php:265
+msgid "Cancelled by teacher: %RESERVE_DATE% %RESERVE_TIME% %ROOM_NAME%"
+msgstr ""
+
+#: class/my-settings.php:266
+msgid "Cancelled by teacher: %RESERVE_DATE% %RESERVE_TIME% by %USER_NAME%"
+msgstr ""
+
+#: class/my-settings.php:267
+msgid ""
+"\n"
+"To: %USER_NAME% (Skype: %USER_SKYPE%)\n"
+"\n"
+"Your reservation was canceled by teacher.\n"
+"[Reservation ID] %RESERVE_ID%\n"
+"[Teacher] %ROOM_NAME%\n"
+"[Date/Time] %RESERVE_DATE% %RESERVE_TIME%\n"
+"[Message]\n"
+"%MESSAGE%\n"
+"\n"
+"(Canceled: %SEND_TIME%)\n"
+"\n"
+msgstr ""
+
+#: class/my-settings.php:304
+msgid "Sun"
+msgstr ""
+
+#: class/my-settings.php:305
+msgid "Mon"
+msgstr ""
+
+#: class/my-settings.php:306
+msgid "Tue"
+msgstr ""
+
+#: class/my-settings.php:307
+msgid "Wed"
+msgstr ""
+
+#: class/my-settings.php:308
+msgid "Thu"
+msgstr ""
+
+#: class/my-settings.php:309
+msgid "Fri"
+msgstr ""
+
+#: class/my-settings.php:310
+msgid "Sat"
+msgstr ""
+
+#: class/my-shortcodes.php:41
+msgid "&laquo; PREV DAY"
+msgstr ""
+
+#: class/my-shortcodes.php:42
+msgid "NEXT DAY &raquo;"
+msgstr ""
+
+#: class/my-shortcodes.php:92 class/my-shortcodes.php:149
+msgid "&laquo; PREV WEEK"
+msgstr ""
+
+#: class/my-shortcodes.php:93 class/my-shortcodes.php:150
+msgid "NEXT WEEK &raquo;"
+msgstr ""
+
+#: class/my-shortcodes.php:162 class/my-shortcodes.php:195
+#: class/my-shortcodes.php:228 class/my-shortcodes.php:260
+#: class/my-shortcodes.php:300 class/my-shortcodes.php:352
+#: class/my-shortcodes.php:572
+msgid "Do not have authority to show this page."
+msgstr ""
+
+#: class/my-ticket.php:47
+msgid "The possession tickets is updated after the check of payment."
+msgstr ""
+
+#: class/my-ticket.php:54 class/my-ticket.php:81
+msgid "Possession tickets"
+msgstr ""
+
+#: class/my-ticket.php:79
+msgid ""
+"If a possession ticket is updated, the term of validity will be "
+"automatically updated by the value of a plug-in option \"term of validity of "
+"a ticket\"."
+msgstr ""
+
+#: class/my-ticket.php:313
+msgid "Your possession tickets is empty. "
+msgstr ""
+
+#: class/my-timetable.php:464 class/my-timetable.php:477
+#: class/my-timetable.php:585
+msgid "FREE"
+msgstr ""
+
+#: class/my-timetable.php:471
+msgid "reserve"
+msgstr ""
+
+#: class/my-timetable.php:475 class/my-timetable.php:583
+msgid "Reserved"
+msgstr ""
+
+#: class/my-timetable.php:484 class/my-timetable.php:784
+msgid "cancel"
+msgstr ""
+
+#: class/my-timetable.php:552 class/my-timetable.php:630
+#: class/my-timetable.php:843 class/my-timetable.php:943
+#: class/my-timetable.php:1094
+msgid "Reserve ID"
+msgstr ""
+
+#: class/my-timetable.php:557 class/my-timetable.php:635
+#: class/my-timetable.php:848 class/my-timetable.php:948
+#: class/my-timetable.php:1099
+msgid "User"
+msgstr ""
+
+#: class/my-timetable.php:842
+msgid ""
+"*) When timetable is canceled by a teacher, it is closed at the same time"
+msgstr ""
+
+#: class/my-timetable.php:1027 class/my-timetable.php:1919
+#: class/my-timetable.php:1929
+msgid "update"
+msgstr ""
+
+#: class/my-timetable.php:1428 class/my-timetable.php:1949
+msgid "Date"
+msgstr ""
+
+#: class/my-timetable.php:1481 class/my-timetable.php:1634
+#: class/my-timetable.php:1845 class/my-timetable.php:1998
+msgid "-"
+msgstr ""
+
+#: class/my-timetable.php:1500 class/my-timetable.php:1513
+#: class/my-timetable.php:1643 class/my-timetable.php:1666
+#: class/my-timetable.php:1853 class/my-timetable.php:1866
+msgid "closed"
+msgstr ""
+
+#: class/my-timetable.php:1508 class/my-timetable.php:1656
+#: class/my-timetable.php:1861
+msgid "You"
+msgstr ""
+
+#: class/my-timetable.php:1519 class/my-timetable.php:1677
+#: class/my-timetable.php:1872
+msgid "Open"
+msgstr ""
+
+#: class/my-widget.php:9
+msgid "This block is displayed while member logged in."
+msgstr ""
+
+#: class/my-widget.php:11
+msgid "Members only"
+msgstr ""
+
+#: class/my-widget.php:48
+msgid "Members menu"
+msgstr ""
+
+#: class/my-widget.php:78 class/my-widget.php:185
+msgid "Edit profile"
+msgstr ""
+
+#: class/my-widget.php:79 class/my-widget.php:186
+msgid "Change password"
+msgstr ""
+
+#: class/my-widget.php:90 class/my-widget.php:197 class/my-widget.php:333
+msgid "Title:"
+msgstr ""
+
+#: class/my-widget.php:113
+msgid "This block is displayed while teacher logged in."
+msgstr ""
+
+#: class/my-widget.php:115
+msgid "Teachers only"
+msgstr ""
+
+#: class/my-widget.php:152
+msgid "Teachers menu"
+msgstr ""
+
+#: class/my-widget.php:220
+msgid "This block is displayed while administrator logged in."
+msgstr ""
+
+#: class/my-widget.php:222
+msgid "Admins only"
+msgstr ""
+
+#: class/my-widget.php:259
+msgid "Admins menu"
+msgstr ""
+
+#: class/my-widget.php:322
+msgid "Dash board"
+msgstr ""
